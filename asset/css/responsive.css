@@ -1,0 +1,173 @@
+/* XL (laptop) Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    
+}
+@media (min-width: 1200px) and (max-width: 1300px) {
+   
+}
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    #bottomQuote .quoteContent p {
+        list-style: 24px;
+        width: 91%;
+        margin-top: 10px;
+    }
+    .cbtn {
+        width: 240px;
+        height: 45px;
+        line-height: 42px;
+        font-size: 14px;
+    }
+    #footerArea .footertopArea .footerRightLink {
+        padding-left: 0px;
+    }
+    #footerArea .footerBottomarea .footerDownload ul li a img {
+        height: 39px;
+    }
+    #videoPopupModal .modal-body iframe {
+        width: 100%;
+        height: 275px;
+    }
+
+
+}
+
+
+@media (max-width: 767px) {
+}
+
+/*-- Phone Landscape --*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    #banarArea .banarContent h1 {
+        font-size: 32px;
+    }
+    #banarArea {
+        padding: 32px 0px;
+    }
+    #bottomQuote .quoteContent p {
+        list-style: 24px;
+        width: 91%;
+        margin-top: 10px;
+    }
+    .cbtn {
+        width: 240px;
+        height: 45px;
+        line-height: 42px;
+        font-size: 14px;
+    }
+    #footerArea .footertopArea .footerRightLink {
+        padding-left: 0px;
+    }
+    #footerArea .footerBottomarea .footerDownload ul li a img {
+        height: 39px;
+    }
+    #bottomQuote .quoteContent {
+        text-align: center;
+    }
+    #bottomQuote .quotebtn {
+        text-align: center !important;
+        margin-top: 23px;
+    }
+    #footerArea .footerBottomarea .footerDownload{
+        margin-top: 30px;
+    }
+    #footerArea {
+        padding: 54px 0px 47px 0px;
+    }
+    #videoPopupModal .modal-body iframe {
+        width: 100%;
+        height: 272px;
+    }
+
+}
+
+
+
+/* Extra small Device. */
+@media (max-width: 575px) {
+    #banarArea {
+        padding: 21px 0px;
+    }
+    #banarArea .banarImage img {
+        width: 75%;
+        margin: 0 auto;
+        display: table;
+    }
+    #banarArea .banarContent{
+        text-align: center;
+        margin-top: 15px;
+    }
+    #banarArea .banarContent h1 {
+        font-size: 26px;
+    }
+    #banarArea .banarContent p {
+        font-size: 16px;
+        margin-top: 7px;
+    }
+    #successStoryArea .itemArea p {
+        font-size: 15px;
+    }
+    #bottomQuote .quoteContent p {
+        list-style: 24px;
+        width: 91%;
+        margin-top: 10px;
+    }
+    #bottomQuote .quoteContent {
+        text-align: center;
+    }
+    #bottomQuote .quotebtn {
+        text-align: center !important;
+        margin-top: 23px;
+    }
+    #footerArea .footerBottomarea .footerDownload{
+        margin-top: 30px;
+    }
+    #footerArea {
+        padding: 54px 0px 47px 0px;
+    }
+    #footerArea .footerBottomarea .footerDownload ul li a img {
+        height: 39px;
+    }
+    #footerArea .footertopArea .logoarea a img{
+        height: 25px;
+    }
+    #footerArea .footertopArea .footerRightLink {
+        padding-left: 0px;
+    }
+    #videoPopupModal .modal-body iframe {
+        width: 100%;
+        height: 190px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
